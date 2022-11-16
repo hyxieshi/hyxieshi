@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+- 这个月看看能不能把力扣刷到一百题
+
 <!--
 **hyxieshi/hyxieshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
