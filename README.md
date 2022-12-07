@@ -3,6 +3,12 @@
 
 
 - 这个月看看能不能把力扣刷到一百题(30)
+### 毕业设计
+- 接下来的任务就是毕业设计了
+- 预计使用uniapp 开发一款h5 及 wx小程序的图文社区
+- 准确的来说是给摄影协会内部分享图片的一个社区
+- 题目：基于uniapp开发的摄影协会系统的设计与实现
+- 
 
 <!--
 **hyxieshi/hyxieshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
